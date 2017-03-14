@@ -200,7 +200,7 @@ class AppComponent extends React.Component {
     this.Constant.vPosRange.x[0] = halfStageW - imgW;
     this.Constant.vPosRange.x[1] = halfStageW;
 
-    this.rearrange(0);
+    //this.rearrange(0);
 
   }
 
